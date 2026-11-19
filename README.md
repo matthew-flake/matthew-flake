@@ -16,7 +16,7 @@ I write for people who want to understand what they are clicking, not just copy 
 
 [![Portfolio 2026: every image and page made in ComfyUI](https://github.com/matthew-flake/portfolio/raw/main/pages/01_cover.png)](https://github.com/matthew-flake/portfolio)
 
-Three small projects: a stylised character with consistent scenes, a sketch-to-render house with rooftop PV, and one product shown in three campaign looks. Every image and every page of the layout was made in ComfyUI on an 8 GB GPU, and the workflow for each one is in the repo.
+Three small projects: a stylised character with consistent scenes, a sketch-to-render single-family house, and one product shown in three campaign looks. Every image and every page of the layout was made in ComfyUI on an 8 GB GPU, and the workflow for each one is in the repo.
 → [**matthew-flake/portfolio**](https://github.com/matthew-flake/portfolio) · [PDF](https://github.com/matthew-flake/portfolio/raw/main/matthew-flake-portfolio-2026.pdf)
 
 ### What I work with
