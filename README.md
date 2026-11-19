@@ -1,8 +1,10 @@
 # Matthew Flake
 
-**ComfyUI workflow designer & technical AI artist.**
-I build tested, repeatable generative pipelines, from the node graph to the API and batch automation.
-Author of two books on ComfyUI, with an engineering background in renewable energy.
+**Engineer by day. ComfyUI and graphics in the evenings and at weekends.**
+
+I work on technical projects for a living. Graphics are my passion and hobby, the thing I come back to in the evenings and at weekends. ComfyUI is where the two meet: I approach AI image creation the way an engineer would, step by step and node by node, testing what actually works.
+
+I write for people who want to understand what they are clicking, not just copy someone else's settings. Every workflow in my books has been tested, and readers can download it, run it and make it their own. No "magic prompts", just ready-to-use files, a clear glossary and plain explanations of why each step works.
 
 > *Matthew Flake* is the pen name I publish my ComfyUI books under. I keep personal details off public profiles, so everything here is about the work.
 
@@ -17,7 +19,7 @@ Author of two books on ComfyUI, with an engineering background in renewable ener
 Three small projects: a stylised character with consistent scenes, a sketch-to-render house with rooftop PV, and one product shown in three campaign looks. Every image and every page of the layout was made in ComfyUI on an 8 GB GPU, and the workflow for each one is in the repo.
 → [**matthew-flake/portfolio**](https://github.com/matthew-flake/portfolio) · [PDF](https://github.com/matthew-flake/portfolio/raw/main/matthew-flake-portfolio-2026.pdf)
 
-### What I do
+### What I work with
 
 - **Workflows:** text-to-image, img2img, inpainting / outpainting, ControlNet, LoRA, consistent characters with reference latents, hi-res fix, 4× print upscaling, seamless textures, background removal
 - **Workflows as code:** workflows generated from Python schemas, shipped in UI and API format, with checksums and versions
@@ -29,8 +31,8 @@ Three small projects: a stylised character with consistent scenes, a sketch-to-r
 | Repository | What it shows |
 |---|---|
 | [portfolio](https://github.com/matthew-flake/portfolio) | 12 images and 6 layout pages, all made in ComfyUI, with one API workflow per image (Z-Image-Turbo, FLUX.2 [klein] 4B) |
-| [from-noise-to-income](https://github.com/matthew-flake/from-noise-to-income) | 21 tested ComfyUI projects (Z-Image-Turbo, FLUX.2 [klein]), plus a batch script and a release script |
-| [node-by-node](https://github.com/matthew-flake/node-by-node) | 11 teaching workflows, from the first image to a full pipeline |
+| [from-noise-to-income](https://github.com/matthew-flake/from-noise-to-income) | 21 tested workflows for the book's 20 projects (Z-Image-Turbo, FLUX.2 [klein]), plus a batch script and a release script |
+| [node-by-node](https://github.com/matthew-flake/node-by-node) | 11 teaching workflows, from the first image to a full pipeline (SDXL, inpainting, ControlNet, LoRA, hi-res fix) |
 
 ### Reproducibility
 
@@ -52,8 +54,8 @@ All workflows are tuned to run on 8 GB VRAM, with no cloud GPU needed.
 
 ### Books
 
-- **Node by Node.** ComfyUI from Your First Image to Your Own Workflow (2026). Polish edition: *Węzeł po węźle*
-- **From Noise to Income.** The ComfyUI Handbook (2026)
+- **Node by Node. ComfyUI from Your First Image to Your Own Workflow** (2026). Polish edition: *Węzeł po węźle*
+- **From Noise to Income: The ComfyUI Handbook** (2026)
 
 ### Tools
 
