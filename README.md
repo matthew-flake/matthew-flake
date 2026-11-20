@@ -16,7 +16,7 @@ I write for people who want to understand what they are clicking, not just copy 
 
 [![Portfolio 2026: every image and page made in ComfyUI](https://github.com/matthew-flake/portfolio/raw/main/pages/01_cover.png)](https://github.com/matthew-flake/portfolio)
 
-Three small projects: a stylised character with consistent scenes, a sketch-to-render single-family house, and one product shown in three campaign looks. Every image and every page of the layout was made in ComfyUI on an 8 GB GPU, and the workflow for each one is in the repo.
+Seven small projects: a stylised character with consistent scenes, a sketch-to-render single-family house, one product in three campaign looks, and a set of game art studies (vehicles and naval key art, casual mobile assets, an anime character with three skins, environments and expressions). Every image and every page of the layout was made in ComfyUI on an 8 GB GPU, and the workflow for each one is in the repo.
 → [**matthew-flake/portfolio**](https://github.com/matthew-flake/portfolio) · [PDF](https://github.com/matthew-flake/portfolio/raw/main/matthew-flake-portfolio-2026.pdf)
 
 ### What I work with
@@ -30,7 +30,7 @@ Three small projects: a stylised character with consistent scenes, a sketch-to-r
 
 | Repository | What it shows |
 |---|---|
-| [portfolio](https://github.com/matthew-flake/portfolio) | 12 images and 6 layout pages, all made in ComfyUI, with one API workflow per image (Z-Image-Turbo, FLUX.2 [klein] 4B) |
+| [portfolio](https://github.com/matthew-flake/portfolio) | 24 images and 11 layout pages, all made in ComfyUI, including game art studies, with one API workflow per image (Z-Image-Turbo, FLUX.2 [klein] 4B) |
 | [from-noise-to-income](https://github.com/matthew-flake/from-noise-to-income) | 21 tested workflows for the book's 20 projects (Z-Image-Turbo, FLUX.2 [klein]), plus a batch script and a release script |
 | [node-by-node](https://github.com/matthew-flake/node-by-node) | 11 teaching workflows, from the first image to a full pipeline (SDXL, inpainting, ControlNet, LoRA, hi-res fix) |
 
