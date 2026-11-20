@@ -30,7 +30,7 @@ Seven small projects: a stylised character with consistent scenes, a sketch-to-r
 
 | Repository | What it shows |
 |---|---|
-| [portfolio](https://github.com/matthew-flake/portfolio) | 24 images and 11 layout pages, all made in ComfyUI, including game art studies, with one API workflow per image (Z-Image-Turbo, FLUX.2 [klein] 4B) |
+| [portfolio](https://github.com/matthew-flake/portfolio) | 34 images and 15 layout pages, all made in ComfyUI, including game art studies and a process page, with one API workflow per image (Z-Image-Turbo, FLUX.2 [klein] 4B) |
 | [from-noise-to-income](https://github.com/matthew-flake/from-noise-to-income) | 21 tested workflows for the book's 20 projects (Z-Image-Turbo, FLUX.2 [klein]), plus a batch script and a release script |
 | [node-by-node](https://github.com/matthew-flake/node-by-node) | 11 teaching workflows, from the first image to a full pipeline (SDXL, inpainting, ControlNet, LoRA, hi-res fix) |
 
